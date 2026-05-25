@@ -23,43 +23,25 @@
 
 </div>
 
-<table>
-  <tr>
-    <td width="58%" valign="top">
+### Building backend systems that stay reliable in production
 
-<h3>Building backend systems that stay reliable in production</h3>
+Software engineer with 4+ years of experience delivering production-grade solutions across fintech, SaaS, and analytics platforms. I specialize in Java, Spring Boot, Kafka, AWS, and full-stack delivery with a strong focus on resiliency, maintainability, and business impact.
 
-<p>
-  Software engineer with 4+ years of experience delivering production-grade solutions across fintech, SaaS, and analytics platforms.
-  I specialize in Java, Spring Boot, Kafka, AWS, and full-stack delivery with a strong focus on resiliency, maintainability, and business impact.
-</p>
+### Snapshot
 
-<h3>What I work on</h3>
+- **Current role:** Senior Software Developer
+- **Location:** Herndon, VA
+- **Domains:** fintech, SaaS, analytics platforms
+- **Focus:** backend and platform engineering
+- **Specialty:** event-driven microservices
+- **Strength:** cloud delivery and observability
 
-<ul>
-  <li>Designing distributed microservices and event-driven backend systems.</li>
-  <li>Building secure APIs with Spring Security, JWT, strong testing, and clean service boundaries.</li>
-  <li>Shipping cloud-native services with Docker, ECS, CI/CD pipelines, observability, and production support.</li>
-  <li>Partnering across product, QA, SRE, and frontend teams to deliver software end to end.</li>
-</ul>
+### What I work on
 
-    </td>
-    <td width="42%" valign="top">
-
-<h3>At a Glance</h3>
-
-<ul>
-  <li><strong>Current role:</strong> Senior Software Developer</li>
-  <li><strong>Location:</strong> Herndon, VA</li>
-  <li><strong>Domains:</strong> fintech, SaaS, analytics platforms</li>
-  <li><strong>Focus:</strong> backend and platform engineering</li>
-  <li><strong>Specialty:</strong> event-driven microservices</li>
-  <li><strong>Strength:</strong> cloud delivery and observability</li>
-</ul>
-
-    </td>
-  </tr>
-</table>
+- Designing distributed microservices and event-driven backend systems.
+- Building secure APIs with Spring Security, JWT, strong testing, and clean service boundaries.
+- Shipping cloud-native services with Docker, ECS, CI/CD pipelines, observability, and production support.
+- Partnering across product, QA, SRE, and frontend teams to deliver software end to end.
 
 ### Tech Stack
 
@@ -72,37 +54,9 @@
 
 ### Experience Highlights
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-
-<strong>Capital One</strong>
-
-<p>
-  Designing Java 21 and Spring Boot 3 microservices for dispute resolution workflows with Kafka, AWS, secure APIs, and strong observability.
-</p>
-
-    </td>
-    <td width="33%" valign="top">
-
-<strong>Platform &amp; API Work</strong>
-
-<p>
-  Building resilient backend services with async messaging, retry patterns, contract-driven integrations, and production-grade testing.
-</p>
-
-    </td>
-    <td width="33%" valign="top">
-
-<strong>Cloud Delivery</strong>
-
-<p>
-  Shipping Dockerized services through ECS and CI/CD pipelines with monitoring, rollout strategies, and production support in mind.
-</p>
-
-    </td>
-  </tr>
-</table>
+- **Capital One:** Designing Java 21 and Spring Boot 3 microservices for dispute resolution workflows with Kafka, AWS, secure APIs, and strong observability.
+- **Platform & API Work:** Building resilient backend services with async messaging, retry patterns, contract-driven integrations, and production-grade testing.
+- **Cloud Delivery:** Shipping Dockerized services through ECS and CI/CD pipelines with monitoring, rollout strategies, and production support in mind.
 
 ### Education
 
